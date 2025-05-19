@@ -17,3 +17,4 @@ Pastry sales present a particularly intriguing forecasting challenge. Freshness 
 The Goal: Intelligent Solutions for a Complex Trade-Off
 Your mission is to develop models that enable better pastry production planning. By accurately predicting daily and seasonal variations in sales, bakeries can produce just the right amount. However, the solution comes with its own trade-offs. Many state-of-the-art machine learning methods require significant computational resources, raising questions about their sustainability. This competition encourages you to weigh these trade-offs and explore innovative, computationally efficient approaches to forecasting.
 <hr>
+# See Python notebook for detailed analysis
